@@ -29,3 +29,8 @@
        }
    }
 ```
+消费者打印的结果：
+* Hello, World!
+* [Book(bookName=gradle 实战, amount=98.0, auther=小王, startDate=Tue Dec 20 17:24:28 CST 2016), Book(bookName=Zookeeper 实践, amount=198.0, auther=小赵, startDate=Tue Dec 20 17:24:28 CST 2016)]
+
+
