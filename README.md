@@ -1,4 +1,4 @@
-# dubbo-demo
+# dubbo-demo-master
 本demo实现简单的dubbo调用，主要采用gradle自动化建构工具构建此项目。
 * dubbo-demo-facade.jar 暴露给消费者的接口
 
